@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+
+<h1>AGAO, ANGELUO G.</h1>
+<p>B30 L23 ANONAS ST MEADOWOOD EXECUTIVE VILLAGE, BRGY PF ESPIRITU 6, BACOOR CAVITE 4102
+
+</p>
+
+</body>
+</html>
